@@ -4,3 +4,8 @@ report/
 .venv/
 __pycache__/
 .pytest_cache/
+docs/images/
+*.png
+*.jpg
+*.jpeg
+*.mp4
